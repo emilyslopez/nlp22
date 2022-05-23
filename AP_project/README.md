@@ -1,5 +1,7 @@
 # Annotation Project
 
+*Final project for UC Berkeley course INFO 159 (Natural Language Processing)*
+
 For our annotation project, we are aiming to build a classifier that can analyze the level of compassion news articles in the U.S. have towards U.S. immigrants. Determining the level of “compassion” an article has towards a group of people is a subjective process and can depend on a variety of different elements such as level of empathy and altruism. We decided to focus our project on the topic of immigration because the current political climate is highly polarized around this conversation. Immigration policy and reform has been continuously evolving and contested throughout history. To help us annotate our dataset in a consistent manner, we’ve identified 4 metrics to assess the level of compassion an article has:
 * Does the article recognize the suffering?
 * Does the reader feel moved by the person suffering and emotionally connect with their distress?
